@@ -1,4 +1,7 @@
-# Burgers and Shakeland
+# Burgers and Shakeland 🍔🥤
+
+### [[View the DBT Docs!](https://dro248.github.io/Burgers-and-Shakeland/burgers_and_shakeland/target/)]
+
 Burgers and Shakeland is a young, thriving restaurant. With a few different locations around town, they have brought you on to analyze their sales data and see if there are some business insights they can gain from their data.
 
 
