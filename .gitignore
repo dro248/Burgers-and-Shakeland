@@ -1,0 +1,6 @@
+# global 
+setup_db/
+.env
+
+# dbt 
+logs/
